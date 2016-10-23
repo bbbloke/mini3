@@ -3,7 +3,7 @@
 # If you want to use a custom password for your database, then change it here, this script will install MySQL /
 # phpmyadmin with that password and also put this into MINI3's config file.
 # Use single quotes instead of double quotes to make it work with special-character passwords
-PASSWORD='mickeymouse23'
+PASSWORD='123456'
 PROJECTFOLDER='vcard'
 
 sudo apt-get update
